@@ -52,22 +52,26 @@ Thus, the back-door solution is proposed. Why not, flood fill every possible reg
 
 Visualised, it goes like this:
 
-char museumMap[][]
-* * * * *
-* . . * *
-* * * . *
 
-region[][]
-0 0 0 0 0
-0 0 0 0 0
-0 0 0 0 0
+    char museumMap[][]
+    * * * * *
+    * . . * *
+    * * * . *
+
+
+    region[][]
+    0 0 0 0 0
+    0 0 0 0 0
+    0 0 0 0 0
 
 *After traversal*
 
-region[][]
-0 0 0 0 0
-0 1 1 0 0
-0 0 0 2 0
+
+    region[][]
+    0 0 0 0 0
+    0 1 1 0 0
+    0 0 0 2 0
+    
 
 So if there were two test cases identifying Igor's starting position of traversal at coordinates (2,2) and (2,3), rather than doing two seperate tests that would eventually produce the same amount of **paintingsFound**, by marking it first, it would be faster to access the answers to adjacent coordinates within the same region.
 
