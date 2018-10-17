@@ -7,17 +7,17 @@ For my solution, I resolved to using a **map** in which the key would be the z S
 
 After all the necesarry inputs are placed, the map would look something like this (based on the sample input):
 
-map[100] = <1003, 1002, 1001, 999>
-map[50]  = <1004, 1007>
-map[-50] = <1005, 1006>
+    map[100] = <1003, 1002, 1001, 999>
+    map[50]  = <1004, 1007>
+    map[-50] = <1005, 1006>
 
 After the proper population of the map, next thing we need to do is to heapSort the elements of the corresponding keys in descending order, so that the first element will always be the largest topic ID.
 
 After sorting, the map would look something like this:
 
-map[100] = <1003, 1002, 1001, 999>
-map[50]  = <1007, 1004>
-map[-50] = <1006, 1005>
+    map[100] = <1003, 1002, 1001, 999>
+    map[50]  = <1007, 1004>
+    map[-50] = <1006, 1005>
 
 The output will go accordingly to the largest z Score difference through the mapped keys, and then it would print out the topic ID followed by its new Z Score value. 
 
