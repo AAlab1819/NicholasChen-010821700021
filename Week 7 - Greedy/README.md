@@ -7,9 +7,9 @@ The output will be the added result from both the sum of the positive integers a
 
 *Complexity = O(n)*
 
-[Problem 946A - Partitions] (http://codeforces.com/contest/946/problem/A)
+[Problem 946A - Partitions](http://codeforces.com/contest/946/problem/A)
 
-[Solution] (http://codeforces.com/contest/946/submission/44487701)
+[Solution](http://codeforces.com/contest/946/submission/44487701)
 
 
 
@@ -22,9 +22,9 @@ The output will be variable **toDelete**.
 
 *Complexity = O(n)*
 
-[Problem 978B] (http://codeforces.com/contest/978/problem/B)
+[Problem 978B](http://codeforces.com/contest/978/problem/B)
 
-[Solution] (http://codeforces.com/contest/978/submission/44487836)
+[Solution](http://codeforces.com/contest/978/submission/44487836)
 
 
 
@@ -39,8 +39,7 @@ If all else fails, the output will be NO. If not and it proceeds well, then the 
 
 *Complexity = O(n^2)*
 
-[Problem 731B] (http://codeforces.com/contest/731/problem/B)
+[Problem 731B](http://codeforces.com/contest/731/problem/B)
 
-[Solution]
-(http://codeforces.com/contest/731/submission/44488151)
+[Solution](http://codeforces.com/contest/731/submission/44488151)
 
