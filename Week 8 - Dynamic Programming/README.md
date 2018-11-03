@@ -31,4 +31,4 @@ Complexity: *O(n)*
 [Problem 913C](https://codeforces.com/contest/913/problem/C)
 
 
-[Solution](https://codeforces.com/contest/913/submission/45156694)
+[Solution](http://codeforces.com/contest/913/submission/45255886)
