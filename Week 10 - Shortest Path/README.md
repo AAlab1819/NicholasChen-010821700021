@@ -9,6 +9,7 @@ The complexity of this problem is:
 *O(n^2)*
 
 [Problem Link 601A](http://codeforces.com/problemset/problem/601/A)
+
 [Solution](http://codeforces.com/contest/601/submission/45709150)
 
 
